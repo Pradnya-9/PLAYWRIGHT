@@ -1,0 +1,15 @@
+{
+    "js/ts.suggest.enabled": false,
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.codeActionWidget.includeNearbyQuickFixes": false,
+    "editor.suggest.selectionMode": "never",
+    "editor.quickSuggestions":{
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off"
+
+}
